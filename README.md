@@ -17,7 +17,7 @@
         Releases
     </a>
     •
-    <a href="https://t.me/pyrogram">
+    <a href="https://t.me/https://@GoojaraFileStoreBot">
         News
     </a>
 </p>
